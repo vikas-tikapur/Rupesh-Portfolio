@@ -323,7 +323,7 @@ img.site-logo {
 .home {
   padding: 5rem 2rem;
   background: linear-gradient(to right, #ffffff, #f5f5f5);
-  background-image: url('images/home.png');
+  background-image: url('./Images/home.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -664,7 +664,7 @@ img.site-logo {
 .project-banner {
   width: 100%;
   min-height: 400px;
-  background: url('images/project_ban.png') no-repeat center center/cover;
+  background: url('./Images/project_ban.png') no-repeat center center/cover;
   display: flex;
   align-items: center;
 }
